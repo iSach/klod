@@ -1,0 +1,6 @@
+{
+  "name": "klod",
+  "version": "0.1.0",
+  "description": "Sidebar showing the context window live, as the /context grid by category",
+  "types": "./types/index.d.ts"
+}
